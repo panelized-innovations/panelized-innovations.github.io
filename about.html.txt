@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About - Panelized Innovations</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">Panelized Innovations</div>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="about">
+    <h1>About Panelized Innovations</h1>
+    <p>We design and manufacture prefabricated architectural structures deployed successfully in construction industries worldwide. Panelized Innovations offers impartial advice to meet customer needs with solutions that are cost-effective, strong, durable, well-insulated, and energy-efficient. All floor plans are architecturally approved and engineered for large projects. Our roofing and wall panels provide fast-track, integrated solutions without extensive support.</p>
+
+    <h2>Founder & Managing Director</h2>
+    <p>Heinnie du Plessis – Visionary and problem-solver with years of experience in the construction industry.</p>
+  </section>
+
+  <footer>
+    <p>Contact: Heinnie du Plessis | +27 62 745 3684 | jebengcon@outlook.com</p>
+    <p>Bloemfontein, Free State, South Africa</p>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
